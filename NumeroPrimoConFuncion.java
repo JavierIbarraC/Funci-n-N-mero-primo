@@ -1,5 +1,4 @@
-Se trata de un programa que pide un número por teclado
-y luego dice si el número introducido es o no es primo.
+//Se trata de un programa que pide un número por teclado y luego dice si el número introducido es o no es primo.
 
 public class NumeroPrimoConFuncion {
 
